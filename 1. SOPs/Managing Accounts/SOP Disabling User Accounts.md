@@ -26,7 +26,7 @@ Verify the authenticity of the account disabling request, ensuring that it is le
 Perform an access control review to assess the impact of disabling the account on system security and access permissions.
 Consider the principle of least privilege (POLP) and NIST SP 800-53 requirements.
 
-1. Notification:
+4. Notification:
 
 Notify the user, or their supervisor if applicable, of the account's impending disabling, including the reason for the action.
 Provide guidance on any steps the user needs to take to address the issue or request reactivation if necessary.

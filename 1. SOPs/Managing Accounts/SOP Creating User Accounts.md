@@ -36,6 +36,7 @@ Passwords must meet NIST SP 800-63-3 guidelines (e.g., minimum length, complexit
 The Account Administrator creates the user account following these steps:
 Generate a unique username for the user, typically using a standardized format (e.g., first initial + last name).
 Assign a temporary password that the user must change upon first login.
+Ensure strong, complex, password requirements are enforced for user created/changed passwords to comply with NIST-63-3 guidelines.
 Set appropriate access permissions based on the access control review.
 
 6. Notification:

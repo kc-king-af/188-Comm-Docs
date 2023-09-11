@@ -31,7 +31,7 @@ Changes must align with the principle of least privilege (POLP) and NIST SP 800-
 Ensure that all account modifications adhere to NIST Special Publication 800-53 standards, including security controls, password policies, and authentication mechanisms.
 Password-related changes must conform to NIST SP 800-63-3 guidelines.
 
-5. User Account Creation:
+5. User Account Modification:
 
 The Account Administrator executes the approved account modifications, which may include:
 Changing access permissions or roles.

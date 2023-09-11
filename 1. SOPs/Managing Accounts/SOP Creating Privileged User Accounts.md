@@ -12,16 +12,21 @@ This procedure applies to all personnel responsible for creating user accounts o
 
 Account Administrator: The individual responsible for creating user accounts and ensuring adherence to security policies.
 
+## Reminder
+
+Privileged account users pose an exponentially greater risk to security and operations than a standard user. If you feel uncomfortable granting privileged access to a user for any reason, stop and report it up the chain of command. 
+
+## Steps
+
 Follow the SOP for Creating User Accounts with additional efforts in the following areas for privileged users:
 
-3. Access Control Review:
-   Same as creating user accounts **_WITH ADDITIONAL VERIFICATION_** to ensure that the requested privileges align with the user's job responsibilities and the principle of least privilege (POLP).
+3. Access Control Review Addendum for Privileged Users:
+   Same as creating user accounts **_WITH ADDITIONAL VERIFICATION_** to ensure that the requested privileges align with the user's job responsibilities and the principle of least privilege (POLP). There is more reason to verify the need for privileged access than with standard users. 
 
-
-4. NIST Compliance:
+4. NIST Compliance Addendum for Privileged Users:
    Same as creating user accounts **_WITH ADDITIONAL VERIFICATION_** to ensure that Role Based Access Control is implement with separate authentication mechanisms for the privileged role.
 
-11. Audit:
+11. Audit Addendum for Privileged Users:
    Same as creating user accounts **_WITH ADDITIONAL VERIFICATION_** to implement continuous monitoring of privileged accounts.
 
 ## References
