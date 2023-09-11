@@ -18,9 +18,10 @@ Gitea, an open-source Git repository management system (similar to GitHub), whic
 
 - **Offline Access:** Developers can access and work on repositories even without an internet connection.
 
-
-
 ## Tentative Implementation Plan
+
+**View Reference and Initial Docs:**
+- [ ] Repo1/IB: /dsop/opensource/go-gitea/gitea
 
 **Infrastructure Setup:**
 - [ ] Choose a dedicated server or VM with adequate resources (CPU, RAM, storage) 
