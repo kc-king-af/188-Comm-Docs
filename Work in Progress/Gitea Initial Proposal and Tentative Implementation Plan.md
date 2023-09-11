@@ -2,7 +2,7 @@
 
 ## Summary of Benefits
 
-Gitea, an open-source Git repository management system, offers several benefits when hosted on-premises locally as a Version Control System (VCS):
+Gitea, an open-source Git repository management system (similar to GitHub), which can be self-hosted from an existing image that has been DoD approved and hardened, offers several benefits when hosted on-premises locally as a Version Control System (VCS):
 
 - **Change Control:** Git and Gitea offer the ability to run changes to SOPs, policies and any other documentation through a Change Control approver (or approvers) before being committed. 
 
@@ -17,6 +17,8 @@ Gitea, an open-source Git repository management system, offers several benefits 
 - **Customization:** Gitea can be customized to match your organization's specific requirements, including integration with existing tools and workflows.
 
 - **Offline Access:** Developers can access and work on repositories even without an internet connection.
+
+
 
 ## Tentative Implementation Plan
 
