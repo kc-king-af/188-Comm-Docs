@@ -1,0 +1,55 @@
+# NIST-Compliant User Account Creation Procedure
+
+## Objective
+To establish a secure and standardized process for creating user accounts in compliance with NIST Special Publication 800-53.
+
+## Scope
+This procedure applies to all personnel responsible for creating user accounts on military information systems.
+
+## Responsibilities
+
+Account Administrator: The individual responsible for creating user accounts and ensuring adherence to security policies.
+
+## Procedure
+
+1. Privileged Account Inventory:
+
+Maintain an up-to-date inventory of all privileged user accounts, including their associated roles, responsibilities, and authorized privileges.
+
+2. Monitoring Tools and Systems:
+
+Implement advanced monitoring tools and systems capable of real-time and historical analysis of privileged user account activities, such as ELA.
+
+3. Monitoring Plan:
+
+Develop a monitoring plan that outlines the specific activities and behaviors to be monitored, especially for privileged accounts.
+
+4. Anomaly Detection:
+
+Implement anomaly detection mechanisms to identify unusual or suspicious behavior associated with user accounts. Privileged accounts should be configured to be more sensitive and generate alerts for even minor deviations from normal behavior.
+
+5. Logging and Auditing:
+
+Enable detailed logging and auditing for privileged accounts, capturing comprehensive information about their actions.
+
+6. Alerting and Reporting:
+
+Configure alerting systems to immediately notify security personnel of any suspicious or unauthorized activities related to user accounts. Set triggers for disabling privileged accounts due to breached thresholds for indicators of possible incident.
+
+7. Regular Reviews:
+
+Conduct regular reviews of privileged account monitoring data to identify trends, anomalies, or potential security risks.
+
+8. Documentation and Record Keeping:
+
+Maintain detailed records of all privileged account monitoring activities, including alerts, incident response actions, and review findings.
+
+Retain all records related to privileged account monitoring in accordance with applicable record retention policies.
+
+9. Audit:
+
+Conduct periodic audits of the privileged account monitoring process to ensure compliance with NIST standards and organizational security policies.
+
+## References
+
+NIST Special Publication 800-53 - "Security and Privacy Controls for Federal Information Systems and Organizations."

@@ -1,0 +1,68 @@
+# Granular Access Control with Security Tokens
+
+## Purpose
+The purpose of this policy is to establish a NIST-compliant framework for managing granular access control to IT systems using security tokens. This policy ensures that access to sensitive information and systems is secure, controlled, and in compliance with relevant regulations and best practices.
+
+## Scope
+This policy applies to all personnel, systems, and data assets within the organization that utilize security tokens for access control. It will be applicable internally for 188th RPA Comm, unless otherwise superseded by a policy or document from an overarching entity.
+
+## Definitions
+Security Token: A hardware or software-based authentication device used to verify the identity of a user.
+IT Systems: Refers to all computer systems, servers, applications, databases, and network devices.
+## Access Control Principles
+This policy will adhere to NIST's access control principles, which include:
+
+### Identification and Authentication
+* Authorization
+* Accountability
+* Least Privilege
+* Separation of Duties
+
+## Responsibilities
+System Administrators: Responsible for implementing and managing access control policies on IT systems.
+Security Team: Responsible for monitoring and auditing access control measures.
+Users: Responsible for following access control policies and using security tokens as required.
+
+### Security Token Usage
+Security tokens must be issued only to authorized personnel.
+Users must protect their security tokens from unauthorized access or disclosure.
+Security tokens must be used in accordance with established policies.
+
+### Authentication
+Users must authenticate using their security tokens to access IT systems.
+Multi-factor authentication (MFA) may be required for sensitive systems.
+Biometric authentication may be used in conjunction with security tokens where necessary.
+
+### Authorization
+Access privileges must be granted based on job roles and responsibilities.
+The principle of least privilege must be applied to limit access to the minimum necessary for job functions.
+Authorization changes must follow a formal approval process.
+
+### Access Control Lists (ACLs)
+ACLs will be used to define who has access to specific resources within IT systems.
+ACLs must be regularly reviewed and updated to reflect changes in user roles or responsibilities.
+
+### Auditing and Monitoring
+All access attempts, including successful and failed ones, will be logged and monitored.
+Regular security audits will be conducted to ensure compliance with access control policies.
+
+### Incident Response
+A documented incident response plan will be in place to address security breaches or incidents involving security tokens.
+
+### Training and Awareness
+All personnel must receive training on security token usage and access control policies.
+Regular awareness programs will be conducted to educate employees about security best practices.
+
+### Documentation and Records
+Records of security token issuance, revocation, and access control changes must be maintained.
+Documentation of access control policies and procedures must be up-to-date.
+
+### Review and Revision
+This policy will be reviewed annually or as needed to ensure it remains compliant with NIST guidelines and organizational needs.
+Changes will be documented, and relevant stakeholders will be informed.
+
+### Distribution
+This policy will be distributed to all relevant personnel and made accessible through appropriate channels.
+
+### Enforcement
+Failure to comply with this policy may result in disciplinary action, to include (but not limited to) the revocation of access privileges.
