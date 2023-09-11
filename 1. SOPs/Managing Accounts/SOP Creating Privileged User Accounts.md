@@ -1,6 +1,6 @@
 # NIST-Compliant User Account Creation Procedure
 
-<mark>NOTE: this is not a stand alone document and should be used in conjunction with [Creating User Accounts](https://github.com/kc-king-af/188-Comm-Docs/blob/main/1.%20SOPs/Managing%20Accounts/SOP%20Creating%20User%20Accounts.md)
+<mark>NOTE: this is not a stand alone document and should be used in conjunction with ![Creating User Accounts](https://github.com/kc-king-af/188-Comm-Docs/blob/main/1.%20SOPs/Managing%20Accounts/SOP%20Creating%20User%20Accounts.md)
 
 ## Objective
 To establish a secure and standardized process for creating **_privileged_** user accounts in compliance with NIST Special Publication 800-53.
